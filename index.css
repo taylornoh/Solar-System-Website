@@ -17,10 +17,6 @@ ul{
     color: white;
 }
 
-video{
-    align-items: left;
-}
-
 body {
     background: radial-gradient(circle at bottom, blue 0, black 100%);
     height: 200vh;
