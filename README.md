@@ -6,6 +6,8 @@ Solar System Website
 Team Members (Authors): 
 Taylor Noh, Christopher Nutter, Lauren Martinez
 
+(https://ss.iamchrisama.com/)[https://ss.iamchrisama.com/]
+
 About Me: 
 This project was created for CPSC 254, an "Open Source Software Development". Our team has created a website using Ubuntu,
 which we were able to use through VirtualBox. Both Ubuntu and VirtualBox are open-source software that we were able to utilizes for 
